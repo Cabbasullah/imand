@@ -1,0 +1,130 @@
+body{
+  background-color: #F5EDDC;
+}
+.file{
+  background-color: orange;
+  border: solid 50px;
+  border-color: yellow;
+  position: relative;
+  display: inline-block;
+
+  right: 1500px;
+  margin-left: 2000px;
+
+}
+div{
+  background-color: #C7F2A4
+
+}
+.top-container{
+  background-color: #C7F2A4
+
+
+}
+.top-container{
+  padding-right: 5px;
+
+
+
+}
+.top-container{
+  border: solid 10px;
+  border-color: orange;
+
+
+
+}
+
+
+.top-container{
+  height: 150px;
+
+
+
+}
+
+
+.top-container{
+width: 150px;
+
+
+
+}
+
+body{
+  margin:0;
+
+}
+h1{
+  margin-top: 0;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width:20px;
+
+
+}
+.mountain{
+  background-color: grey;
+}
+
+.software{
+  text-decoration: underline;
+}
+.middle-container{
+  background-color: white;
+
+
+}
+.middle-container{
+  padding-right:5px
+
+
+}
+.middle-container{
+  padding-left:5px
+}
+.middle-container{
+  height: 150px
+
+}
+.middle-container{
+    width: 150px
+}
+.middle-container{
+    margin-left: 175px
+}
+.middle-container{
+    border:solid 6px;
+    border-color: green;
+}
+.bottom-container{
+  background-color: red;
+
+}
+.bottom-container{
+  padding-right: 5px
+}
+.bottom-container{
+  border:solid 5px;
+  border-color: #C7F2A4;
+}
+.bottom-container{
+  height: 150px
+}
+.bottom-container{
+  width: 150px
+}
+.bottom-container{
+margin-left: 345px
+}
+
+
+.cloud{
+  background-color: #5F9DF7;
+  margin-top: 0;
+  padding-right: 4.5px;
+}
